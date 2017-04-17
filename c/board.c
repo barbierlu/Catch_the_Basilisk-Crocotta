@@ -3,9 +3,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#define MIN_BRD_SIZE (4)
-#define ARROW_START_NUM (2)
-#define PIT_NUM (3)
+#define MIN_BRD_SIZE      4
+#define ARROW_START_NUM   2
+#define PIT_NUM           3
 
 
 arrows * init_arrows(void)
